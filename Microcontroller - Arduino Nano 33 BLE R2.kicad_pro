@@ -404,6 +404,10 @@
     [
       "edb5e8ff-a9fb-4259-a6e8-8a38e09599ce",
       "Root"
+    ],
+    [
+      "801010a0-71d0-429c-bf8f-34fdb4f1ad2e",
+      "Power"
     ]
   ],
   "text_variables": {}

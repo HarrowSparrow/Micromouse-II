@@ -991,6 +991,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 35.56 31.75)
+		(size 59.69 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "801010a0-71d0-429c-bf8f-34fdb4f1ad2e")
+		(property "Sheetname" "Power"
+			(at 35.56 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mouse2Power.kicad_sch"
+			(at 35.56 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Microcontroller - Arduino Nano 33 BLE R2"
+				(path "/edb5e8ff-a9fb-4259-a6e8-8a38e09599ce"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
